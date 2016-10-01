@@ -1,5 +1,5 @@
 {
-	"ImportPath": "github.com/sajayantony/dockerlogs/src",
+	"ImportPath": "github.com/sajayantony/dockerlogs",
 	"GoVersion": "go1.6",
 	"GodepVersion": "v74",
 	"Deps": []
