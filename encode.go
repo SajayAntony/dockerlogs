@@ -19,6 +19,8 @@ func Encode(m *string) {
 	o, err := json.Marshal(r)
 	if err != nil {
 		fmt.Println("{'message':'error encoding'}")
+		return
 	}
+
 	fmt.Println(string(o))
 }
